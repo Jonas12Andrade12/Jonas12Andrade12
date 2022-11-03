@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Social
+
+[![Linkedin](https://img.shields.io/badge/-Slite-white?style=flat-square&logo=codacy&logoColor=black&link=https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)](https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)
+[![Linkedin](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
+
 ### Github Stats
 
  <div>
