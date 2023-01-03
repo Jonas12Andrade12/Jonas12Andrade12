@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### Social
 
-[![Linkedin](https://img.shields.io/badge/-Slite-white?style=flat-square&logo=codacy&logoColor=black&link=https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)](https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)
+[![Slite](https://img.shields.io/badge/-Slite-white?style=flat-square&logo=codacy&logoColor=black&link=https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)](https://codacy.slite.com/app/docs/xfRGfK-e0pkxHP/Intro-Jonas-Andrade)
 [![Linkedin](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
 
 ### Github Stats
 
- <div>
+<div>
   <a href="https://github.com/JonasAndrade12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas12Andrade12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas12Andrade12&layout=compact&langs_count=7&theme=dark"/>
